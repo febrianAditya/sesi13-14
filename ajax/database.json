@@ -1,0 +1,143 @@
+[
+    {
+    "id": 1,
+    "first_name": "Winni",
+    "last_name": "Klisch",
+    "email": "wklisch0@slideshare.net",
+    "gender": "Female",
+    "address": "41849 Kipling Drive"
+  }, {
+    "id": 2,
+    "first_name": "Laure",
+    "last_name": "Androck",
+    "email": "landrock1@squidoo.com",
+    "gender": "Female",
+    "address": "6823 Gateway Circle"
+  }, {
+    "id": 3,
+    "first_name": "Ogdon",
+    "last_name": "Sendall",
+    "email": "osendall2@naver.com",
+    "gender": "Male",
+    "address": "0440 Daystar Way"
+  }, {
+    "id": 4,
+    "first_name": "Dennison",
+    "last_name": "Frome",
+    "email": "dfrome3@ucoz.ru",
+    "gender": "Male",
+    "address": "2 Algoma Center"
+  }, {
+    "id": 5,
+    "first_name": "Buffy",
+    "last_name": "Lidierth",
+    "email": "blidierth4@t-online.de",
+    "gender": "Female",
+    "address": "1 Brentwood Court"
+  }, {
+    "id": 6,
+    "first_name": "Nevsa",
+    "last_name": "Giotto",
+    "email": "ngiotto5@mysql.com",
+    "gender": "Female",
+    "address": "7171 Brentwood Parkway"
+  }, {
+    "id": 7,
+    "first_name": "Margret",
+    "last_name": "Rennebeck",
+    "email": "mrennebeck6@clickbank.net",
+    "gender": "Agender",
+    "address": "1431 Scoville Circle"
+  }, {
+    "id": 8,
+    "first_name": "Isidora",
+    "last_name": "Moffett",
+    "email": "imoffett7@goodreads.com",
+    "gender": "Female",
+    "address": "288 Columbus Center"
+  }, {
+    "id": 9,
+    "first_name": "Robin",
+    "last_name": "Sainte Paul",
+    "email": "rsaintepaul8@artisteer.com",
+    "gender": "Agender",
+    "address": "00585 Vermont Plaza"
+  }, {
+    "id": 10,
+    "first_name": "Jacklin",
+    "last_name": "Tollet",
+    "email": "jtollet9@ucsd.edu",
+    "gender": "Female",
+    "address": "026 Browning Parkway"
+  }, {
+    "id": 11,
+    "first_name": "Lorrie",
+    "last_name": "Jirik",
+    "email": "ljirika@biblegateway.com",
+    "gender": "Female",
+    "address": "13 Washington Place"
+  }, {
+    "id": 12,
+    "first_name": "Patin",
+    "last_name": "Flemmich",
+    "email": "pflemmichb@instagram.com",
+    "gender": "Male",
+    "address": "798 Killdeer Point"
+  }, {
+    "id": 13,
+    "first_name": "Port",
+    "last_name": "Rominov",
+    "email": "prominovc@lycos.com",
+    "gender": "Male",
+    "address": "4 Main Park"
+  }, {
+    "id": 14,
+    "first_name": "Fernandina",
+    "last_name": "Jacobowits",
+    "email": "fjacobowitsd@hc360.com",
+    "gender": "Female",
+    "address": "8 Kenwood Crossing"
+  }, {
+    "id": 15,
+    "first_name": "Muffin",
+    "last_name": "Link",
+    "email": "mlinke@pagesperso-orange.fr",
+    "gender": "Genderqueer",
+    "address": "9955 Lawn Avenue"
+  }, {
+    "id": 16,
+    "first_name": "Far",
+    "last_name": "Mutch",
+    "email": "fmutchf@hud.gov",
+    "gender": "Male",
+    "address": "07 Petterle Pass"
+  }, {
+    "id": 17,
+    "first_name": "Minette",
+    "last_name": "Gonthier",
+    "email": "mgonthierg@ezinearticles.com",
+    "gender": "Female",
+    "address": "3279 Continental Park"
+  }, {
+    "id": 18,
+    "first_name": "Rustie",
+    "last_name": "Waddy",
+    "email": "rwaddyh@uiuc.edu",
+    "gender": "Male",
+    "address": "991 Dawn Junction"
+  }, {
+    "id": 19,
+    "first_name": "Van",
+    "last_name": "Paule",
+    "email": "vpaulei@bizjournals.com",
+    "gender": "Male",
+    "address": "9178 Stang Road"
+  }, {
+    "id": 20,
+    "first_name": "Arleta",
+    "last_name": "Pratten",
+    "email": "aprattenj@scribd.com",
+    "gender": "Female",
+    "address": "54625 Lunder Street"
+  }]
+  

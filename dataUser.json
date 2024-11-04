@@ -1,0 +1,142 @@
+[{
+    "id": 1,
+    "first_name": "Kerk",
+    "last_name": "Kirkness",
+    "email": "kkirkness0@woothemes.com",
+    "gender": "Male",
+    "address": "37 Hauk Road"
+  }, {
+    "id": 2,
+    "first_name": "Cindelyn",
+    "last_name": "MacCroary",
+    "email": "cmaccroary1@amazonaws.com",
+    "gender": "Female",
+    "address": "7703 Basil Drive"
+  }, {
+    "id": 3,
+    "first_name": "Stefania",
+    "last_name": "Stiegar",
+    "email": "sstiegar2@elegantthemes.com",
+    "gender": "Female",
+    "address": "78030 Packers Alley"
+  }, {
+    "id": 4,
+    "first_name": "Yvor",
+    "last_name": "Como",
+    "email": "ycomo3@slashdot.org",
+    "gender": "Male",
+    "address": "55647 Cordelia Alley"
+  }, {
+    "id": 5,
+    "first_name": "Bogart",
+    "last_name": "Karolowski",
+    "email": "bkarolowski4@mashable.com",
+    "gender": "Male",
+    "address": "22454 Dapin Road"
+  }, {
+    "id": 6,
+    "first_name": "Gerome",
+    "last_name": "Gemeau",
+    "email": "ggemeau5@state.gov",
+    "gender": "Male",
+    "address": "3 Green Ridge Street"
+  }, {
+    "id": 7,
+    "first_name": "Nikolaos",
+    "last_name": "Vereker",
+    "email": "nvereker6@ca.gov",
+    "gender": "Male",
+    "address": "6 Grayhawk Park"
+  }, {
+    "id": 8,
+    "first_name": "Mycah",
+    "last_name": "Schwand",
+    "email": "mschwand7@soup.io",
+    "gender": "Male",
+    "address": "9782 Stang Crossing"
+  }, {
+    "id": 9,
+    "first_name": "Elliot",
+    "last_name": "Di Meo",
+    "email": "edimeo8@over-blog.com",
+    "gender": "Male",
+    "address": "77791 Burrows Pass"
+  }, {
+    "id": 10,
+    "first_name": "Hans",
+    "last_name": "Steggles",
+    "email": "hsteggles9@digg.com",
+    "gender": "Male",
+    "address": "8 Manitowish Terrace"
+  }, {
+    "id": 11,
+    "first_name": "Keith",
+    "last_name": "Szymoni",
+    "email": "kszymonia@mysql.com",
+    "gender": "Male",
+    "address": "8 Laurel Way"
+  }, {
+    "id": 12,
+    "first_name": "Port",
+    "last_name": "Colleran",
+    "email": "pcolleranb@tamu.edu",
+    "gender": "Male",
+    "address": "39 Fair Oaks Lane"
+  }, {
+    "id": 13,
+    "first_name": "Nobie",
+    "last_name": "Pert",
+    "email": "npertc@guardian.co.uk",
+    "gender": "Male",
+    "address": "9278 Eliot Street"
+  }, {
+    "id": 14,
+    "first_name": "Virgilio",
+    "last_name": "Tinline",
+    "email": "vtinlined@drupal.org",
+    "gender": "Male",
+    "address": "52 Farmco Drive"
+  }, {
+    "id": 15,
+    "first_name": "Lizette",
+    "last_name": "Alstead",
+    "email": "lalsteade@163.com",
+    "gender": "Female",
+    "address": "26791 Hollow Ridge Center"
+  }, {
+    "id": 16,
+    "first_name": "Libbie",
+    "last_name": "McNellis",
+    "email": "lmcnellisf@independent.co.uk",
+    "gender": "Female",
+    "address": "9467 Lawn Street"
+  }, {
+    "id": 17,
+    "first_name": "Lazare",
+    "last_name": "Dadd",
+    "email": "ldaddg@statcounter.com",
+    "gender": "Male",
+    "address": "09418 Luster Hill"
+  }, {
+    "id": 18,
+    "first_name": "Moishe",
+    "last_name": "Slainey",
+    "email": "mslaineyh@dot.gov",
+    "gender": "Male",
+    "address": "6448 Crownhardt Crossing"
+  }, {
+    "id": 19,
+    "first_name": "Valerye",
+    "last_name": "Georgescu",
+    "email": "vgeorgescui@amazon.de",
+    "gender": "Female",
+    "address": "4123 Schurz Alley"
+  }, {
+    "id": 20,
+    "first_name": "Lamond",
+    "last_name": "Guly",
+    "email": "lgulyj@vimeo.com",
+    "gender": "Male",
+    "address": "2 Dennis Parkway"
+  }]
+  
